@@ -1,4 +1,4 @@
-The idea of the projhect is to take an FFT of a signal and show to outpu of the FFT on a LED array/screen.
+The idea of the project is to take an FFT of a signal and show the output of the FFT on a LED array/screen.
 
 First im going to generate a signal with the DAC and try to use the ADC at the same time and take an FFT of the signal.
 After this is done, i will try to use a AUX as signal input. 
